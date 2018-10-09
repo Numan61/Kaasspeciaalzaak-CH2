@@ -112,7 +112,7 @@ li a {
     background-color: #e2b587;
      width: auto;
     text-align: center;
-    height:450px
+    height:auto;
     padding:inherit;
     line-height: 40px;
     color:white;
@@ -124,7 +124,7 @@ li a {
     background-color: #d2943c;
      width: auto;
     padding:inherit;
-    height:450px;
+    height:auto;
     color: white;
     text-align: center;
     grid-area: main1;
@@ -133,7 +133,7 @@ li a {
 .box4{
     background-color: #434343;
      width: auto;
-    height:450px;
+    height:auto;
      padding:inherit;
     color:white;
     text-align: center;
@@ -145,7 +145,7 @@ li a {
      background-color: #babec9;
      width: auto;
      padding:inherit;
-    height:450px;
+    height:auto;
     color: white;
     text-align: center;
     grid-area: nieuws;
@@ -157,7 +157,7 @@ li a {
      padding:inherit;
     text-align: center;
      width: auto;
-    height:300px;
+    height:auto;
       grid-area: footer;
 }
 
