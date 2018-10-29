@@ -108,7 +108,7 @@ li a {
     width: 100%;
     height:auto;
     grid-area: main;
-    background: url("img/kaas.jpg");
+    
 }
 
 .box2{
@@ -171,8 +171,8 @@ li a {
 
 
 .kaas{
-    width: 100%;
-    height:100%;
+    max-width: 100%;
+    height:auto;
 }
 
 .menutoggle{
